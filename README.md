@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Name - Personal Accomplishments</title>
+    <Personal Page> Vishnuvarthan Jayakumar
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
